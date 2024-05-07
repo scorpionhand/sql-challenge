@@ -6,7 +6,7 @@
   - data engineering
   - data analysis
 ---
-**Data source files**
+**Data source files:**
   - departments.csv
   - dept_emp.csv
   - dept_manager.csv
