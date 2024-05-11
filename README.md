@@ -8,7 +8,7 @@
   - Visual Studio Code
 
 ---
-:chart_with_upwards_trend:
+:mag:
 **ANALYSIS QUERIES:**
   - **ANALYSIS/**
     - QUERIES.sql
