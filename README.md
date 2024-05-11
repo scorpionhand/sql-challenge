@@ -3,9 +3,9 @@
 ---
 :pushpin:
 **Tools Used:**
-  - https://app.quickdatabasediagrams.com/#/
-  - pgAdmin 4
-  - Visual Studio Code
+  - [https://app.quickdatabasediagrams.com/#/](https://app.quickdatabasediagrams.com/#/d/84zLae)
+  - [pgAdmin 4](https://www.pgadmin.org/download/pgadmin-4-windows/)
+  - [Visual Studio Code](https://code.visualstudio.com/)
 
 ---
 :mag:
@@ -32,3 +32,5 @@
 **SCHEMA:**
   - **SCHEMA/**
     - Table_Schemata.sql
+
+
