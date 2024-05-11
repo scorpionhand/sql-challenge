@@ -1,5 +1,10 @@
 # SQL-Challenge 
 ### Module 9 Challenge
+---
+**Tools Used:**
+  - https://app.quickdatabasediagrams.com/#/
+  - pgAdmin 4
+  - Visual Studio Code
 
 ---
 **ANALYSIS QUERIES:**
